@@ -22,7 +22,6 @@ Publish the website in the given URL.
 ## PROGRAM:
 
 ### CYLINDERVOLUME.html
-
 ```
 {% load static %}
 <!DOCTYPE html>
@@ -69,7 +68,6 @@ Publish the website in the given URL.
 ```
 
 ### TRIANGLEAREA.html
-
 ```
 {% load static %}
 <!DOCTYPE html>
@@ -115,7 +113,6 @@ Publish the website in the given URL.
 ```
 
 ### VOLUME.js
-
 ```
 result_button = document.querySelector('#button_add');
 
@@ -134,7 +131,6 @@ result_button.addEventListener('click', function(e){
 ```
 
 ### AREA.js
-
 ```
 result_button = document.querySelector('#button_area');
 
