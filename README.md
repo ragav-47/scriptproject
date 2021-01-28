@@ -109,7 +109,6 @@ Publish the website in the given URL.
 
 </html>
 ```
-## JAVA SCRIPTS
 ### VOLUME.js
 ```
 result_button = document.querySelector('#button_add');
