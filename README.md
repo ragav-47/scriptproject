@@ -20,7 +20,6 @@ Publish the website in the given URL.
 
 
 ## PROGRAM:
-
 ### CYLINDERVOLUME.html
 ```
 {% load static %}
@@ -66,7 +65,6 @@ Publish the website in the given URL.
 </html>
 
 ```
-
 ### TRIANGLEAREA.html
 ```
 {% load static %}
@@ -111,7 +109,7 @@ Publish the website in the given URL.
 
 </html>
 ```
-
+## JAVA SCRIPTS
 ### VOLUME.js
 ```
 result_button = document.querySelector('#button_add');
@@ -129,7 +127,6 @@ result_button.addEventListener('click', function(e){
 
 });
 ```
-
 ### AREA.js
 ```
 result_button = document.querySelector('#button_area');
@@ -147,19 +144,15 @@ result_button.addEventListener('click', function(e){
 
 });
 ```
-
 ## OUTPUT:
-
 ![output](./static/img/output1.png)
 
 ![output](./static/img/output2.png)
 
 ## CODE VALIDATION REPORT:
-
 ![output](./static/img/volume.png)
 
 ![output](./static/img/area.png)
-
 ## RESULT:
 
 Thus a website is designed for the calculation of area of triangle and volume of cylinder using javascript and is hosted in the URL http://ragav.student.saveetha.in:8000/cylindervolume/ & http://ragav.student.saveetha.in:8000/trianglearea/ HTML code is validated.
